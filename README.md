@@ -1,5 +1,3 @@
-<h3 align="center">👋 I'm Vinicius Johann</h3>
-
 <div align="center">
  
  **Programming Student** | 🇧🇷 Brazil  
